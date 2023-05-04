@@ -1,2 +1,2 @@
 # Validar_CPF
-Algoritmo para validar CPF, calcula seus digitos sem saber os digitos...
+Algoritmo para validar CPF.
